@@ -12,7 +12,7 @@ Contact: support@tripwire.com
     
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3399BF15-2B43-462B-9B6F-6213CC37489B}</ProjectGuid>
+    <ProjectGuid>{E30F6B5A-A5AE-458B-9CAA-9E07D6CF8524}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>IO.Swagger</RootNamespace>

@@ -81,7 +81,7 @@ Contact: support@tripwire.com
   <Import Project="$(MsBuildToolsPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
       <ProjectReference Include="..\IO.Swagger\IO.Swagger.csproj">
-          <Project>{3399BF15-2B43-462B-9B6F-6213CC37489B}</Project>
+          <Project>{E30F6B5A-A5AE-458B-9CAA-9E07D6CF8524}</Project>
           <Name>IO.Swagger</Name>
       </ProjectReference>
   </ItemGroup>
